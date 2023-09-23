@@ -22,7 +22,7 @@ console.log(content);
 fs.readFile("./data.js", "utf8", function (err, content) {
   console.log(content);
 });
-console.log("------next--------");
+console.log("------next!--------");
 
 // module.exports vs exports
 console.log(data);
